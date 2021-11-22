@@ -1,0 +1,70 @@
+
+.tout {
+        margin: 0% 10%;
+    }
+.logo {
+    text-align: center;
+    }
+    .herocorp {
+        font-weight: bold;
+    }
+.annexe {
+        font-size: 80%;
+        font-style: italic;
+        }
+.hero {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    font-weight: bolder;
+    }
+.serie {
+    margin: 10pt;
+    padding: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    }
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40pt;
+    }
+h2 {
+    font-size: 20pt;
+    text-align: center;
+    font-weight: bold;
+    }
+.bloc {
+    padding: 0% 5%;
+    background-color: #d3d3d3;
+    }
+.text {
+        margin: 10px 400px;
+        padding: 0% 10% 0% 10%;
+    }
+.synopsis
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        color: #8B0000;
+        font-weight: bolder;
+        font-size: 15pt;
+    }
+hr {
+        margin: 0% 2%;
+      color: #8B0000;
+    }
+.ligne2 {
+    color: #DDDDDD;
+       }
+.fin {
+    height: 100px;
+    text-align: center;
+    background-color: #d3d3d3;
+    margin: 1% 1% 1% 1%;
+    padding: 20pt;
+    }

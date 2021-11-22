@@ -1,0 +1,83 @@
+body {
+    padding: auto;
+    margin: 5%;
+    }
+.hero {
+    font-family: 'Oswald';
+    font-weight: bolder; 
+    }
+hr {
+    border-color: #8b0000;
+    }
+.hrgris {
+        border-color: #DDDDDD;
+    }
+.titre {
+    text-align: center;
+        }
+.chapitre {
+    font-family: 'Oswald';
+    font-size: 200%;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 5pt;
+    padding-bottom: 10pt;
+        }
+.logo {
+    text-align: center;
+    margin: 10px;
+        }
+.cadre {
+    background-color: #dddddd;
+    margin: 5% 10%;
+        }
+.cadre2 {
+        width: 80%;
+        margin: 5% 10%;
+    }
+td {
+    padding: 10pt;
+    }
+.synopsis {
+    font-family: 'Oswald';
+    font-size: 150%;
+    font-weight: bolder;
+    text-align: center;
+    color: #8b0000;
+    padding: 20pt;
+    }
+.annexe {
+    font-size: 80%;
+    font-style: italic;
+    text-align: center;
+    }
+.list {
+    margin: 5%;
+    text-align: center;
+    }
+li {
+    margin: 20% 5%;
+    font-weight: bold;
+    color: #8b0000;
+    background-color: #dddddd;
+    border-radius: 5px 5px 5px 5px;
+    text-transform: uppercase;
+    margin: 1%;
+    }
+.scene > img {
+    width: 50px;
+    height: 50px;
+}
+.scene {
+    align-items: center;
+    text-align: center;
+    border: solid;
+    border: #868686;
+    border: solid;
+    }
+.action {
+    font-family: 'Oswald';
+    font-size: 150%;
+    font-weight: bolder;
+    color: #8b0000;
+}
