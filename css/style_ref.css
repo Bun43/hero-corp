@@ -1,0 +1,129 @@
+* body {
+    margin: 5%;
+    padding: 1%;
+        }
+.herocorp {
+        font-weight: bold;
+        }
+.table0 {
+        text-align: center;
+        margin: 1rem auto;
+        }
+.rectangle {
+                width: 200%;
+                height: 2rem;
+                background-color: #000000;
+                color: #ffffff;
+                vertical-align: middle;
+                padding: 15%;
+                margin: 30%;
+                }
+.table1 {
+    margin: 5%;
+    background-color: #dddddd;
+        }
+td {
+        padding: 1% 5%;
+}
+.hero {
+        font-family: 'Oswald';
+        font-weight: bold;
+        font-size: 300%;
+        text-align: center;
+        }
+.serie {
+        font-size: 100%;
+        font-family: 'Oswald';
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        }
+.annexe {
+        font-style: italic;
+        text-align: center;
+        }
+.logo1 {
+        text-align: center;
+        }
+.logo2 {
+         text-align: center;
+         }
+.logo2 img {
+                margin: 2%;
+                width: 15%;
+                height: 15%;
+        }
+.ligne1 {
+        border-top: solid #8b0000;
+        border-bottom: solid #8b0000;
+        }
+.ligne2 {
+        margin: 1rem;
+        border: 1px;
+        border-top: 1px solid #000000;
+        }
+.table2 {
+        border: 1px solid black;
+        border-radius: 10px;
+      }
+.chapitre1 {
+    padding: 1rem;
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+            }
+.chapitre2 {
+    padding: 1rem;
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+    color: #8b0000;
+            }
+.acteurs {
+        margin: 2px;
+        padding: 1%;
+        text-align: center;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+        color: #8b0000;
+        text-transform: uppercase;  
+        font-weight: bold;
+        }
+.scenes td {
+        text-align: center;
+        align-items: center;
+        align-content: center;
+}
+.scenes {   
+            width: 250px;
+            text-align: center;
+            border: 1px solid #dddddd;
+            margin: 2% auto;
+            text-align: center;
+            align-content: center;
+            align-content: center;
+        }
+.scenes img {
+        padding: 5%;
+        width: 200px;
+        height: 140px;
+        font-family: 'Oswald';
+        text-align: center;
+}
+.description {
+        text-align: center;
+        padding-bottom: 5%;
+        font-family: 'Oswald';
+                }        
+a:hover {
+        color:rgb(0, 88, 177);
+        }
+.baspage {
+        width: 100%; 
+        font-family: 'Oswald';
+        background-color: #dddddd; 
+        text-align: center; 
+        padding: 1% 10% 5%;     
+}
